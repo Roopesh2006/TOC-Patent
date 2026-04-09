@@ -1,0 +1,4 @@
+Drug,BindingEnergy,H_Bonds,Residues,MW,Score
+Paracetamol,-6.0,1,2,151.2,Low
+Aspirin,-6.4,2,2,180.1,Medium
+Celecoxib,-7.0,3,3,381.3,High

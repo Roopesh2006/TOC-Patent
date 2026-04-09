@@ -1,0 +1,4 @@
+Celecoxib shows the strongest binding affinity (-7.0 kcal/mol),
+followed by Aspirin (-6.4 kcal/mol) and Paracetamol (-6.0 kcal/mol).
+Interaction analysis shows better stability for Celecoxib due to more
+residue interactions.
