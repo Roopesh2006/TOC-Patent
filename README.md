@@ -1,9 +1,27 @@
-# COX-2 Docking Analysis
+##Comparative Analysis of COX-2 Inhibitors using Molecular Docking
 
-## Comparative Analysis of COX-2 Inhibitors using Molecular Docking and Multi-Metric Evaluation
 
-This project analyzes how different anti-inflammatory drugs interact with the COX-2 enzyme using molecular docking. The study compares Paracetamol, Aspirin, and Celecoxib based on binding energy, residue interactions, and drug-likeness properties.
+#Description
 
+This project analyzes how different anti-inflammatory drugs interact with the COX-2 enzyme using molecular docking. The drugs considered are Paracetamol, Aspirin, and Celecoxib.
+
+Docking was performed using AutoDock Vina, and multiple parameters such as binding energy, interaction with amino acid residues, and drug properties were evaluated. The results show that Celecoxib has the strongest binding affinity compared to the other drugs.
+
+This project demonstrates the use of computational methods for fast and cost-effective drug analysis and highlights the importance of bioinformatics in drug discovery.
+
+
+Team & Contributions//
+
+
+Bharath R – Data Collection
+
+Vedhachalam M  – Paper Presentation
+
+Roopesh G A – GitHub Maintenance
+
+Institution
+
+Vellore Institute of Technology, Vellore, India
 ---
 
 ## 📁 Repository Structure
@@ -66,13 +84,6 @@ COX2-Docking-Analysis/
 ### Celecoxib
 ![Celecoxib Docking](images/celecoxib.png)
 
----
----
-## Team & Contributions
-
-Bharath R – Data Collection  
-Vedhachalam M (24BCB0107) – Paper Presentation  
-Roopesh G A – GitHub & Coding 
 ---
 
 ## ▶️ How to Run
