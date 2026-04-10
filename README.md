@@ -67,6 +67,13 @@ COX2-Docking-Analysis/
 ![Celecoxib Docking](images/celecoxib.png)
 
 ---
+---
+## Team & Contributions
+
+Bharath R – Data Collection  
+Vedhachalam M (24BCB0107) – Paper Presentation  
+Roopesh G A – GitHub & Coding 
+---
 
 ## ▶️ How to Run
 
