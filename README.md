@@ -1,6 +1,7 @@
+---
 ##Comparative Analysis of COX-2 Inhibitors using Molecular Docking
 
-
+---
 #Description
 
 This project analyzes how different anti-inflammatory drugs interact with the COX-2 enzyme using molecular docking. The drugs considered are Paracetamol, Aspirin, and Celecoxib.
